@@ -1,0 +1,195 @@
+# NAME: TikTok
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-04-16 02:11:04
+# HOST: 3
+# HOST-KEYWORD: 2
+# HOST-SUFFIX: 22
+# USER-AGENT: 1
+# TOTAL: 28
+host-suffix, mastodon.social, proxy
+host-suffix, www.extrabux.com, proxy
+host-suffix, vod2eu16.128100.xyz, proxy
+host-suffix, cableav.tv, proxy
+host-suffix, www.forbes.com, proxy
+host-suffix, home.miot-spec.com, proxy
+host-suffix, heike.fun, proxy
+host-suffix, medisearch.io, proxy
+host-suffix, www.tor05.com, proxy
+host-suffix, cj.lziapi.com, proxy
+host-suffix, cj.lziapi.com, proxy
+host-suffix, cj.ffzyapi.com, proxy
+host-suffix, h2qpz3.isadl.com, proxy
+host-suffix, zh.d2l.ai, proxy
+host-suffix, www.producthunt.com, proxy
+host-suffix, pboyd.io, proxy
+host-suffix, qaul.net, proxy
+host-suffix, 35photo.pro, proxy
+host-suffix, wiki.misakaf.org, proxy
+host-suffix, ttcg1.com, proxy
+host-suffix, ttcg5.fun, proxy
+host-suffix, img5.qy0.ru, proxy
+host-suffix, sex-positions.online, proxy
+host-suffix, pic.tmsmh.com, proxy
+host-suffix, www.mxs11.cc, proxy
+host-suffix, www.mxshm.site, proxy
+host-suffix, yemancomic.com, proxy
+host-suffix, se8.us, proxy
+host-suffix, api2.hcaptcha.com, proxy
+host-suffix, newassets.hcaptcha.com, proxy
+host, app-measurement.com, proxy
+host-suffix, raw.githubusercontent.com, proxy
+host-suffix, img01.yzcdn.cn, proxy
+host-suffix, v.avgigi.com, proxy
+host-suffix, guide.v2fly.org, proxy
+host-suffix, x.com, proxy
+host, 51bl.life, proxy
+host-suffix, pikpak.me, proxy
+host-suffix, haijiaolove.xyz, proxy
+host-suffix, meta.com, proxy
+host, jigadori.fkoji.com, proxy
+host-suffix, learn-english.dev, proxy
+host-suffix, hjvdo.139592.com, proxy
+host-suffix, www.51baoliao1.com, proxy
+host-suffix, wikiwalkie.com, proxy
+host-suffix, 51cg.fun, proxy
+host-suffix, th.wallhaven.cc, proxy
+host-suffix, abc.bdy40.net, proxy
+host-suffix, www.book123.info, proxy
+host-suffix, h5book.pages.dev, proxy
+host-suffix, pic.tuckdng.cn, proxy
+host-suffix, 51cg1.com, proxy
+host, 129.146.45.219, proxy
+host-suffix, swag.live, proxy
+host-suffix, www.wuwucomic.xyz, proxy
+host-suffix, xianshangkan.cc, proxy
+host-suffix, bamc.myclinic.com.sa, proxy
+host-suffix, bmigmi-global.ccavbox.com, proxy
+host-suffix, img.stripcdn.com, proxy
+host-suffix, sleazyfork.org, proxy
+host-suffix, bmigmi.ccavbox.com, proxy
+host-suffix, comicbox.xyz, proxy
+host-suffix, womany.net, proxy
+host-suffix, lianhonghong.com, proxy
+host-suffix, www.177picyy.com, proxy
+host-suffix, feixugou.news.blog, proxy
+host, tck.lmadps.jp, proxy
+host-suffix, img.lmadps.jp, proxy
+host-suffix, www.bigboobsjapan.com, proxy
+host, wps.apple.com, direct
+host-suffix, microsculpture.net, proxy
+host-suffix, static.bdy50.net, proxy
+host-suffix, 2.uliba.net, proxy
+host-suffix, 2.uliba.net, proxy
+host-suffix, tu.20230618.xyz, proxy
+host-suffix, ios-app.heypi.com, proxy
+host-suffix, xlog.app, proxy
+host, appapi.dmall.com, direct
+host-suffix, appapi.dmall.com, direct
+host-suffix, cdn.stripcash.com, proxy
+host-suffix, videocelebs.net, proxy
+host-suffix, img4.561245.xyz, proxy
+host-suffix, t4.561245.xyz, proxy
+host-suffix, files.honghufly.com, proxy
+host-suffix, dmall.com, direct
+host-suffix, www.wnacg.com, proxy
+host-suffix, cdn-msp.jmapiproxy1.cc, proxy
+host-suffix, ednovass-organization.gitbook.io, proxy
+host-suffix, www.duyaoss.com, proxy
+host-suffix, abc.bdy1.net, proxy
+host-suffix, claude.ai, proxy
+host-suffix, www.anthropic.com, proxy
+host-suffix, www.ahhhhfs.com, proxy
+host-suffix, discordapp.page.link, proxy
+host-suffix, kemono.part, proxy
+host-suffix, coomer.part, proxy
+host-suffix, ocsp.digicert.com, proxy
+host-suffix, hls.wslzzs.com, proxy
+host-suffix, kkjm01.me, proxy
+host-suffix, sapphire.api.microsoftapp.net, 🇺🇲 美国节点
+host-suffix, self.events.data.microsoft.com, 🇺🇲 美国节点
+host-suffix, gateway.bingviz.microsoftapp.net, 🇺🇲 美国节点
+host-suffix, dmgk1.co, proxy
+host, ulogs.umengcloud.com, proxy
+host-suffix, forums.e-hentai.org, proxy
+host-suffix, exhentai.org, proxy
+host-suffix, adpic.teachergua.org, proxy
+host-suffix, bing.com, 🇺🇲 美国节点
+host-suffix, jinjier.art, proxy
+host-suffix, hjdf39.com, proxy
+host-suffix, www.hjedd.com, proxy
+host-suffix, diyp.112114.xyz, proxy
+host-suffix, zoosexfarm.com, proxy
+host-suffix, graph.org, proxy
+host-suffix, www.nuezhilian06.com, proxy
+host-suffix, hj.viphk.91tunnel.com, proxy
+host-suffix, hjkf5.com, proxy
+host-suffix, hjk0c.com, proxy
+host-suffix, huntly.rom666.com, proxy
+host-suffix, lib-jxdk6wn5hgmeqshxfogexm7p.1lib.ch, proxy
+host, singlelogin.me, proxy
+host-suffix, onlyyou.app, proxy
+host, portal.meomiao.xyz, proxy
+host, api.meomiao.host, proxy
+host-suffix, api.beingfine.cn, direct
+host-suffix, fmtu.netfhtu.com, proxy
+host-suffix, 7tb.cc, proxy
+host-suffix, aisearch.cc, proxy
+host-suffix, h528.com, proxy
+host, p.vryunpan.cc, proxy
+host-suffix, vrporn.com, proxy
+host-suffix, asmr.121231234.xyz, proxy
+host-suffix, www.asmrgay.com, proxy
+host-suffix, book.xbookcn.net, proxy
+host, www.xbookcn.net, proxy
+host, filmiclegacy.page.link, proxy
+host, zztt31.com, proxy
+host, zztt87.com, proxy
+host, rss.lilydjwg.me, proxy
+host, audio.yazhouseba.co, proxy
+host-suffix, yazhouse8.com, proxy
+host, cdn-msp.jmapiproxy3.cc, proxy
+host, cdn-msp.jmapiproxy.cc, proxy
+host, cdn-msp.jmapiproxy3.cc, proxy
+host, cdn-msp.jmapiproxy2.cc, proxy
+host, www.asjmapihost.cc, proxy
+host, r5.roucdn1.link, proxy
+host, cdn.pncloudfl.com, proxy
+host, r5.roucdn2.link, proxy
+host, r5.roucdn2.link, ♻️ 自动选择
+host, www.shuku.net, 🇭🇰 香港节点
+host, 6678888.xyz, 🇭🇰 香港节点
+host, media8.kissjav.com, 🇺🇲 美国节点
+host, herexxx.com, 🇺🇲 美国节点
+host, ox.xmkczs.com, proxy
+host-suffix, fulivv.com, ♻️ 自动选择
+host-suffix, 7io5ea.com, ♻️ 自动选择
+host-suffix, 91porn.com, 🇺🇲 美国节点
+host-suffix, z11.ac7bd9be791.rocks, 🇺🇲 美国节点
+host, w2.aqu1024.club, 🇺🇲 美国节点
+host-suffix, z11.adca2cf2fdb.rocks, 🇺🇲 美国节点
+host-suffix, 免费云搜.xyz, 🇭🇰 香港节点
+host-suffix, xn--9kq89d0w0a2y2b.xyz, 🇭🇰 香港节点
+host-suffix, zzzttt14.com, proxy
+host-keyword, 18comic, proxy
+host, zztt07.com, proxy
+host-suffix, tgbak.com, proxy
+host-suffix, yandex.com, proxy
+host-suffix, qxnav.com, proxy
+host-suffix, qxzy.topdfsdfsdf, proxy
+host-suffix, raw.githubusercontent.com, proxy
+host-keyword, merlinblog, proxy
+host-suffix, azgw.367901.com, proxy
+host, www.sex.com, proxy
+host, sex.com, 🇺🇲 美国节点
+host, www.govchengdu.cn, reject
+host, aig.aigzg.com, reject
+host, pv.dakawm.cc, reject
+host, www.govxian.cn, reject
+host-suffix, tv.sason.xyz, proxy
+host-suffix, emby2.otakudrive.life, proxy
+host-suffix, emby.plusmedia.site, proxy
+host-suffix, limbopro.xyz, 🇭🇰 香港节点
+host-suffix, masuit.com, 🇭🇰 香港节点
+host, www.ikanwzd.top, proxy
+host-suffix, rouman5.com, proxy
